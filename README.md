@@ -292,8 +292,6 @@ GitHub
 <img src="https://img.shields.io/badge/GITHUB-WarishaMutayyab-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a><br><br>
 
-<a href="https://www.instagram.com/warishamutayyab/">
-<img src="https://img.shields.io/badge/INSTAGRAM-Warisha%20Mutayyab-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a></div>---
 
 <div align="center">✨ Learn. Build. Deploy. Repeat.
